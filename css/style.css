@@ -1,0 +1,27 @@
+
+body{
+
+  background-color: #CEE5D0;
+}
+
+h1{
+
+  color: #76BA99;
+}
+
+h3{
+  color: #A084CF;
+}
+
+label{
+  color: #590696;
+}
+  hr {
+
+
+    border-top-style: dashed;
+
+    width: 80%;
+
+
+  }
